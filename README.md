@@ -35,11 +35,6 @@ The project is deployed live on Streamlit!
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the app: `streamlit run app.py`
 
-## 📸 Demo Screenshots
-*[Delete this text and drag-and-drop your screenshot of a High-Risk assessment here]*
-
-*[Delete this text and drag-and-drop your screenshot of a Low-Risk assessment here]*
-
 ## 📈 Results and Insights
 The model successfully segments borrowers into actionable risk categories. Key drivers of delinquency identified include low credit scores, multiple existing active loans, and high debt-to-income ratios.
 
